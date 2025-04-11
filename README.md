@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tialo" alt="Tialo" /> </p>
+
 <div class="stats">
   <table cellpadding="0" cellspacing="0">
     <tr>
